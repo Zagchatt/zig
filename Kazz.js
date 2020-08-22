@@ -1,6 +1,6 @@
 if(location.protocol!='https:'){location.protocol='https:';}
 $(` <center><div style=" width: 100%;height: auto!important; "  id="as" margin: 2px;" class="fa fa-heartbeat btn btn-danger" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">&nbsp;● · مـوسـيـقـى · ●&nbsp;</div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"></i></p>اغاني</p><audio controls loop="" play=""><source src="https://node-34.zeno.fm/rmwwdtg9uwzuv?rj-ttl=5&rj-tok=AAABdBZZUmEAss4Y_1td1KtnBA"></audio></div><center>`).insertBefore('label.nosel.ninr.fl.uzr.label.label-primary'),
-$(`<link rel="stylesheet" href="https://raw.githack.com/jfa-w/new/master/تعديل العيد.css">
+$(`<link rel="stylesheet" href="https://raw.githack.com/zagcha/kaz/master/Zig.css">
 <style>
 </style>`).insertBefore('body'),
 $('.fa.fa-user-plus').html(`تسجيل`);(document.getElementById("tbox").placeholder = "عمي عوف السطح ودردش ويانا");
